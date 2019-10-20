@@ -1,0 +1,32 @@
+
+Overview of Cloud Computing
+     Easy to acess
+     On-Demand
+     Focus on your core business
+     Providers ensure maintaince
+Characterisitcs of cloud computing
+  self Service
+  Network access
+  Resource pooling -> (Virtualization machine  on host server) hyper viser is a virtualization layer.
+                
+  Raid Elasticity 
+  Measured Service -> based on the cost you can increase or decrease 
+  
+  Cloud Benfits
+    --> Speed & Agility
+    -> Reduced Expnses
+    -> Reduced costs
+    -> No upfront descisions
+    -> Go Global in minutes
+    -> Lower Mainitaince
+
+  Deployment Models of Cloud Computing
+     -> public cloud -> shared with general public. For unpredictable utilizations by users. 
+    
+     -> private cloud -> dedicated lines , AWS also offering dedicated lines to company organisation
+        Not able to access over the internet. 
+     -> Community cloud -> some group of people can access
+     -> Hybrid cloud -> Some of applications in private cloud & public cloud
+     
+
+
