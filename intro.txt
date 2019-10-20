@@ -30,3 +30,20 @@ Characterisitcs of cloud computing
      
 
 
+Cloud Computing Srvice Models
+  IAAS,
+  PAAS
+  SAAS
+  ( Pizza as a service)
+Regions,Availability Zones, Edge locations
+Terminology
+-> Scalability - Ability to handle increased workload by expaning accordning to the load
+-> Fault Tolerance - Continuosly operate without interrption in the event od service failures
+-> Elasticity - Capability of infrastruture to scale up or down autometically
+-> Durability -> Ability to stay strong in a good condition over a long period of time.
+-> Availibility -> Continue operate and provide the same service as it originally did
+
+
+  
+  
+  
