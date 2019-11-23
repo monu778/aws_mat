@@ -1,5 +1,22 @@
 Placement Group
 Tenancy
  1) Shared -> Multiple vms from different users on single physical servers
- 2) Dedicated Instance -> Multiple vms from single user on single physical Server 
- 3) Dedicated Host  -> completly owned 
+ 2) Dedicated Instance -> Multiple vms from single user on single physical Server. When you restart it will start from different physical server
+ 3) Dedicated Host  -> completly owned physical server. 
+ 
+ EBS Volume
+ ---------
+ -->persistent in nature
+ -->Virtual hard disk
+ --> upto 30GB-> free
+ -->One EBS Volume can be attached to one instance at a time
+ 
+ 1) SSD
+    2 types
+      good IOPS performance
+ 2) HDD
+    3 type
+     good through put performance
+    
+ 
+ 1
