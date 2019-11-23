@@ -14,9 +14,18 @@ Tenancy
  1) SSD
     2 types
       good IOPS performance
+      1) General purpose (Min 1GB max:16384 GB)
+         IOPS : for 100 GB-> 300/3000 ->  3 iops per GiB with minimum of 100 iops.
+         
+         if use less iops it will be stored in credit bucket.  upto 3000 iops can burst max
+         
+      2) Provisioned IOPS (min 4 GB , Max:16384 GB) -> standard 3000 iops 
  2) HDD
     3 type
-     good through put performance
+    cold HDD
+    Throughput optimized
+    Magnetic standard
+     good throughput performance
     
  
  1
