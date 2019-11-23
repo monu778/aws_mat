@@ -1,0 +1,5 @@
+Placement Group
+Tenancy
+ 1) Shared -> Multiple vms from different users on single physical servers
+ 2) Dedicated Instance -> Multiple vms from single user on single physical Server 
+ 3) Dedicated Host  -> completly owned 
