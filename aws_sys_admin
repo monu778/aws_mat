@@ -24,8 +24,14 @@ Tenancy
     3 type
     cold HDD
     Throughput optimized
-    Magnetic standard
-     good throughput performance
-    
+    Magnetic standard -> It will not give any throughput improvement
+     good throughput performance (
+    throughput is a term used for how much data can be transferred from the source to its destination within a given timeframe. Bandwidth – Bandwidth is the term used for the maximum transfer capacity of a network.
  
- 1
+ fdisk -l
+
+How to Change existing EBS Type:
+
+   Take the snapshot of existing volume type
+
+    
