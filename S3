@@ -6,3 +6,16 @@ Securing Data on S3 & encrypt your data
 Getting data in & out of S3
 AWS recommnded best practises
 cost associated with S3
+
+
+Object based Storage
+unlimited storage space
+cant edit an object
+cant install os/db
+used for keeping snapshots
+upto 5 gb -->free tier
+100 buckets per accounts
+s3 types
+
+s3 std
+s3 std 1A
