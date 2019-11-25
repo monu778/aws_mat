@@ -34,4 +34,16 @@ How to Change existing EBS Type:
 
    Take the snapshot of existing volume type
 
+Golden Image
+    creating your own AMI (Custom AMI)
+    golden image always have snapshot. snapshots are chargable.
+    even if u deregister image snapshot will not be deleted
     
+    
+  Virtual Networking
+   --> Virtual network acrsoos resources
+   --> isolate your resources within public cloud
+   --> default VPC maintained by amazon
+   --> vpc regional service
+   
+   
